@@ -1,0 +1,21 @@
+section.donate {
+    position: relative;
+}
+section.donate h1 {
+    font-size: 30px;
+    color: #122c45;
+}
+section.donate img {
+    width: 100%;
+}
+section.donate button {
+    border: none;
+    outline: none;
+    position: absolute;
+    bottom: 25%;
+    right: 15%;
+    width: 20%;
+    height: 5%;
+    background: transparent;
+    cursor: pointer;
+}
